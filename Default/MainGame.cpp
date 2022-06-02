@@ -6,6 +6,8 @@
 #include "ObjMgr.h"
 
 
+//====================================
+
 CMainGame::CMainGame() : m_dwTime(GetTickCount()),m_iFPS(0), m_iScore(0) //: m_pPlayer(nullptr), m_pMonster(nullptr)
 {
 	ZeroMemory(m_tszFPS, sizeof(m_tszFPS));
