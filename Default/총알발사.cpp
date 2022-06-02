@@ -7,8 +7,10 @@
 
 #define MAX_LOADSTRING 100
 //안녕하세요
+
 //12d12d
-//qd21d21d
+
+
 
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
